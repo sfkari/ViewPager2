@@ -16,7 +16,7 @@ L’application dédiée à la découverte des villes du maroc ! cette applicati
 
 
 
+<img width="218" alt="Presentation" src="https://github.com/user-attachments/assets/32b1ee6e-b585-445d-9e69-9715b77aa427">
+<img width="216" alt="liste" src="https://github.com/user-attachments/assets/d132de82-29e4-4777-9b18-a67bf9e03522">
+<img width="215" alt="details" src="https://github.com/user-attachments/assets/3b944e23-6dd4-4e18-9cc1-402c069e7e85">
 
-<img width="191" alt="presentation" src="https://github.com/user-attachments/assets/c333a8de-2105-4584-b49f-8f62ca0b3037">
-<img width="191" alt="liste" src="https://github.com/user-attachments/assets/902bcdb7-a0be-4e28-9800-677604226dd5">
-<img width="188" alt="details" src="https://github.com/user-attachments/assets/6676e505-8cb0-4495-b5bf-33c5221cb70b">
